@@ -1,0 +1,23 @@
+---
+title: 'Milestone #2'
+output: html_document
+author: Patricia Lai
+---
+
+url for my repo
+https://github.com/PatriciaLai/Gov1005_Milestone02.git
+
+
+## Project 1 - How the Average American Spends Their Time, by Hope Kudo
+https://hope-kudo.shinyapps.io/TimeAnalysis/
+
+pros and cons:
+
+I was attracted by the topic and would like to know how people spend their time in the US. The topic is interesting, and the box plots for presenting the time usage distributions by state and bar charts for presenting the sleep hours distribution by incomes clearly depicted the data and distribution. I also like the author broke down the sleep data by several influencing factors, which helps me to better understand which factors do affect the sleep hours.
+
+What I don't like is the storyline for this project. At first, I was expecting the author would tell me how people spend their time and what is the most time-consuming task in a day. However, the first section is about the sleep time, and it made me confused until I reach to the "State Comparison" section. I think the ideal order would be telling the reader that the time usage distributions among a day by state, and then lead to sleep section because sleep occupies the biggest proportion in a day. Also, although it's good to have the discussion, I would prefer to put the discussion with the plot so that I don't need to look back and forth between sections. A better way to present could be have several sub-sections to individually discuss the Income, Race, Sex, and Education influence. Some plots could be adjusted a bit about the order or the y-axis. For example, the family income in the first and second plots are not ordered based on the increasing manners. That cause a confusion when interpreting the data. The last part I would suggest to change is not showing the Interpretation of Regression Tables. It's not a bad thing to show the most "mathematics" part in the analysis. However, if this data is meant to be shared to other teams in the company or presented to general public who doesn't have statistics background, the Beta value or 95% CI may not have any meaning to them, unless the author can explain what it means in the report.
+
+
+## Project 2 - Harvard 2023 Social Connections, by Jeremiah Kim, Helen Pang, Jack Kelly, Emily Ni, Kelsey Wu and Mark Stephens.
+
+pros and cons:
