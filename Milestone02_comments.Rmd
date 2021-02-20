@@ -19,5 +19,8 @@ What I don't like is the storyline for this project. At first, I was expecting t
 
 
 ## Project 2 - Harvard 2023 Social Connections, by Jeremiah Kim, Helen Pang, Jack Kelly, Emily Ni, Kelsey Wu and Mark Stephens.
+https://jeremiah-kim.shinyapps.io/Social_Connections/
 
 pros and cons:
+
+This is an amazing project. I like they collected their own data and use this first-hand data to create a thoroughly data analysis report. I especially like the interactive social network section that I can play around with individual networking and which node has the most links to others. Also, the storyline is clear, logical, and cohesive: it starts from the methods they use and the overview of the data, and then narrow down to the most connected individuals, race, and individual comments, which really makes sense to me. I think one con for this project is that every section is relatively long and sometimes I miss the point when I read those lengthy descriptions. It would be better if the authors can give the readers a sentence of conclusion for this section, either on the title or in the beginning of each section. But overall, this is a great work!
